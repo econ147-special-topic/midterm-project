@@ -1,0 +1,12 @@
+---
+title: "Report"
+author: "Loraine Tecson"
+date: "2024-10-25"
+output: html_document
+---
+
+```{r}
+library(datasets)
+data(hr_perf_dta)
+summary(hr_perf_dta)
+```
