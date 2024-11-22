@@ -1,0 +1,31 @@
+---
+title: "Midterm project: HR analytics employee attrition and performance"
+format: html
+editor: visual
+---
+
+## Submitted report
+
+|  |  |
+|----------------------------------|--------------------------------------|
+| **Name** | **Report link** |
+| ABEJERO, CHRISTINE SUAN | [link](report/abejero-christine.html) |
+| ALINSOB, NEIL CHRISTIAN MEREDORES | [link](report/alinsob-neil) |
+| BAYO, MA. ANGILICA VILLABETO | [link](report/bayo-maangilica.html) |
+| BESAS, MEGAN BORJA | [link](report/besas-megan.html) |
+| BONGCARAS, CHERIE JOYCE LAMDAGAN | [link](report/bongcaras-cherie-joyce.html) |
+| CABALAR, JOLINA HUBILLA | [link](report/cabalar-jolina.html) |
+| CAMPEHIOS, AGNES SEMBLANTE | [link](report/campehios-agnes.html) |
+| CEREZO, ROGELIO DUMLAO III | [link](report/cerezo-rogelio.html) |
+| CHU, KEZIAH PANTINO | [link](report/chu-keziah.html) |
+| DE JESUS, ZALDOMAR CASIL | [link](report/de-jesus-zaldomar.html) |
+| GRABATO, WAYNE MEA PAPEL | [link](report/bayo-maangilica.html) |
+| JAPON, JEAN PEROZ | [link](report/bayo-maangilica.html) |
+| KANGLEON, MYKE JARED MANALOTO | [link](report/bayo-maangilica.html) |
+| LUMANTA, MA. AMOR CABAHUG | [link](report/bayo-maangilica.html) |
+| MACABATA, ABEGAIL GUPIT | [link](report/bayo-maangilica.html) |
+| PALERO, DEVORA DIAN LLANTO | [link](report/bayo-maangilica.html) |
+| PRIAS, DANICA SEVILLA | [link](report/bayo-maangilica.html) |
+| SALAS, JOE MARI KENT GONTIñAS | [link](report/bayo-maangilica.html) |
+| SARONG, JAN YLOISA GUATNO | [link](report/bayo-maangilica.html) |
+| TECSON, LORAINE NAVAS | [link](report/bayo-maangilica.html) |
